@@ -15,5 +15,5 @@ Currently Working On:<br><br>    I'm actively enhancing the SIA Checker, aiming 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dave-170&icon=0&color=6)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 You can help me by tipping
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dave170) 
